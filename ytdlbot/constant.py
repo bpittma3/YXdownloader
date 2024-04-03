@@ -23,12 +23,12 @@ from utils import get_func_queue
 
 class BotText:
     start = """
-    Welcome to YouTube Download bot. Type /help for more information. 
+    Bienvenue sur le robot de téléchargement YouTube. Type /help for more information. 
     Backup bot: @Architecte_Q
-    Join https://t.me/ArchitectePatriotes Pour les Mises A Jours."""
+    Rejoindre https://t.me/ArchitectePatriotes Pour les Mises A Jours."""
 
     help = f"""
-1. If the bot doesn't work, try again or join https://t.me/ArchitectePatriotes for updates.
+1. Si le bot ne fonctionne pas, réessayez ou rejoignez-nous https://t.me/ArchitectePatriotes Pour Mise A Jour.
 
 2. Source code: https://github.com/bpittma3/YXdownloader
     """
