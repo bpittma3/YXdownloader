@@ -21,7 +21,7 @@ from typing import Any
 
 import pyrogram.errors
 import qrcode
-import yt_dlp
+import youtube-dl
 from apscheduler.schedulers.background import BackgroundScheduler
 from pyrogram import Client, enums, filters, types
 from pyrogram.errors.exceptions.bad_request_400 import UserNotParticipant
